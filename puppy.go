@@ -26,3 +26,6 @@ func FromV1() {
 	fmt.Println("Hello from v1.1.0")	
 }
 
+func FromV2() {
+	fmt.Println("Hello from v1.2.0")	
+}
